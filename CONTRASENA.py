@@ -1,3 +1,5 @@
+print("Ejercicio uno de la practica 2\n")
+
 print("Introduzca una contraseña.\n")
 
 A = input("Introduzca su contraseña: ")
@@ -9,3 +11,5 @@ else:
     print("Contrasena incorrecta.")
 
 print("\nGracias por usar el programa.")
+
+print("\nFinal ejercicio uno practica dos Python")
