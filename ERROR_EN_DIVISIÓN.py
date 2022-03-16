@@ -1,3 +1,4 @@
+print("Comienzo del ejercicio.\n")
 print("ERROR EN DIVISIÓN.\n")
 
 print("Usted deverá introducir dos numero, numerados y denominador.\n")
@@ -12,3 +13,4 @@ else:
     print("El resultado de la división es: ", C)
 
 print("\nGracias por usar el programa.")
+print("\nFin del ejercicio.")
