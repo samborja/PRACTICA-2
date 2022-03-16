@@ -1,4 +1,5 @@
 print("Descubra su TIPO IMPOSITIVO y su declaracion de renta.\n")
+print("Tenga en cuneta que si usted es menor de edad no es apto para tributar\n")
 
 nombre = input("Nombre: ")
 ingreso = int(input("Ingrese su renta anual: "))
